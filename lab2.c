@@ -6,6 +6,8 @@
     statements, but otherwise the same.
 */
 
+// full of errors!
+
 
 // stores one node of the linked list
 typedef struct node{
